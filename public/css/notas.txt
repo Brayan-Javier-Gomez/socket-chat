@@ -1,0 +1,7 @@
+colores de referencia
+
+body del chat : #2d293e
+
+background del mensaje : #3f4056
+
+background del nombre del usuario: #b5b4e1
